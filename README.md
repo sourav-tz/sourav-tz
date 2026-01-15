@@ -1,5 +1,5 @@
 ![MasterHead](assets/cover.jpg)
-<h1 align="center">Hi , I'm Sourav Mondal</h1>
+<h1 align="center">Hi, I'm Sourav ;)</h1>
 <h3 align="center">Passionate full-stack developer from India, building scalable and user friendly web applications</h3>
 <img align="right"
      width="300"
