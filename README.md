@@ -1,4 +1,4 @@
-![MasterHead](assets/comp.gif)
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 <h1 align="center">Hi, I'm Sourav ;)</h1>
 <h3 align="center">Passionate full-stack developer from India, building scalable and user friendly web applications</h3>
 <img align="right"
