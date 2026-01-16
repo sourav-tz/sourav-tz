@@ -4,7 +4,7 @@
 <img align="right"
      width="300"
      alt="Coding Ninja"
-     src="assets/ninja-removebg-preview.png"/>
+     src="assets/nn.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-tz&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-tz" /> </p>
 
